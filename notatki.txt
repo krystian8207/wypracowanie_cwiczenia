@@ -1,0 +1,2 @@
+Dodać informację o historii gita.
+
