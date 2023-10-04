@@ -5,5 +5,6 @@ Jest to wypracowanie po tytułem **Czy korzystanie z git jest proste?**
 
 ### Wybrane informacje
 
-- wypracowanie.txt - plik zawierający treść repozytorium
+- *wypracowanie.txt* - plik zawierający treść repozytorium
+- *notatki.txt* - plik zawierajacy notatki
 
